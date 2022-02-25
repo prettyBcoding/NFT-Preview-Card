@@ -3,7 +3,7 @@ body{
   font-family: 'Outfit', sans-serif;
   text-align: left;
   display: flex; 
-  justifiy-content:center; 
+  justify-content:center; 
   align-items: center;
   min-height:100vh;
 }
@@ -30,14 +30,13 @@ body{
 }
 
 .overlay{
-  background-color: #00fff7;
+  background-color: rgba(0, 255, 247, 1);
   border-radius: 0.5rem;
   position: relative;
   bottom: 283px;
   left: 21px;
   width: 17.5rem;
   height: 17.5rem;
-  opacity: 0;
   transition: .5s ease;
 }
 
