@@ -3,7 +3,7 @@ body{
   font-family: 'Outfit', sans-serif;
   text-align: left;
   display: flex; 
-  justify-content:center; 
+  justify-content: center; 
   align-items: center;
   min-height:100vh;
 }
