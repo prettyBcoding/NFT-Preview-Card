@@ -37,6 +37,7 @@ body{
   left: 21px;
   width: 17.5rem;
   height: 17.5rem;
+  opacity: 0;
   transition: .5s ease;
 }
 
