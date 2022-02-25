@@ -98,5 +98,5 @@ I'll still focus on HTML/CSS, to improve my skills. So for now I'll keep doing t
 
 ## Acknowledgments
 
-Thank God to streghten me while I was getting stuck.
+Thank God to streghten me while I was getting stuck. 😅
 Thank to me.
